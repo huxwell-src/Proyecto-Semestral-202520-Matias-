@@ -49,7 +49,6 @@ dsn = "TU_HOST:PUERTO/TU_SERVICIO"
 * SQL Developer o SQL*Plus para probar queries y procedimientos
 
 ---
-
 ## Descripción del gráfico
 
 * Barras en **tonos celestes**
@@ -58,7 +57,9 @@ dsn = "TU_HOST:PUERTO/TU_SERVICIO"
 * Cada barra representa un estudiante, con etiqueta mostrando el promedio exacto
 * Estilo sobrio y profesional, sin degradados ni efectos
 
----
+### Ejemplo del gráfico
+
+![Gráfico de promedio](https://raw.githubusercontent.com/huxwell-src/Proyecto-Semestral-202520-Matias-/refs/heads/main/Ejemplo.png)
 
 ## :bulb: Notas adicionales
 
